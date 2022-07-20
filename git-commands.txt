@@ -1,0 +1,11 @@
+git clone https://github.com/dinesh94/demo1.git 
+- Clone the existing code 
+
+git status
+
+git add git-commands.txt
+git commit -m "First commit"
+
+git push
+
+git checkout -b bug-fix
